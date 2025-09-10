@@ -1,0 +1,9 @@
+ipykernel
+python-dotenv
+openai
+pytz
+yfinance
+tabulate
+langchain
+langchain-openai
+streamlit
