@@ -1,3 +1,5 @@
+# 차트 도구 추가: 그래프 이미지를 텍스트로 변환할 때 용량 폭증
+# 테스트 질문: 테슬라 6개월 주가 그래프 그려줘.
 # UI용과 Model용 구분한 히스토리 관리
 # streamlit 일관된 랜더링 방법
 # Execute: streamlit run langchain_chatbot_tool_streamlit.py
@@ -5,7 +7,7 @@
 
 from langchain_openai import ChatOpenAI
 from langchain_core.messages import SystemMessage, HumanMessage, AIMessage, ToolMessage
-from tools import ALL_TOOLS, TOOL_DICT  # 도구들을 import
+from tools_1 import ALL_TOOLS, TOOL_DICT  # 도구들을 import
 import base64
 import streamlit as st
 from dotenv import load_dotenv
