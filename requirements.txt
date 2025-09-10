@@ -7,3 +7,16 @@ tabulate
 langchain
 langchain-openai
 streamlit
+matplotlib
+pypdf  
+langchain-chroma
+tavily-python  
+langchain-community
+youtube-search  
+youtube-transcript-api
+langgraph
+fastmcp
+geopy
+langchain-mcp-adapters
+smithery
+langchain-mcp-tools
